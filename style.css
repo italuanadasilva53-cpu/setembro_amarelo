@@ -4,13 +4,13 @@ body {
   padding: 0;
   background: #fffbe6;
   color: #333;
-  tex-algin: center;
+  tex-align: center;
 }
 
 header {
   background: #f4d03f;
   padding: 20px;
-  color: h333;
+  color: #333;
 }
 
 h1 {
